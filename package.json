@@ -18,9 +18,9 @@
   "author": "Yorkie Neil <yorkiefixer@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yorkie/koa-range/issues"
+    "url": "https://github.com/koajs/koa-range/issues"
   },
-  "homepage": "https://github.com/yorkie/koa-range",
+  "homepage": "https://github.com/koajs/koa-range",
   "devDependencies": {
     "istanbul": "^1.1.0-alpha.1",
     "koa": "^2.0.0",
